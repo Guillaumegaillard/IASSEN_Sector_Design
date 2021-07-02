@@ -1,7 +1,7 @@
 # IASSEN_Sector_Design
 This code is implementing the simulation used in the following paper that will be presented in ICCCN 2021:
 
-["Guillaume Gaillard and Gentian Jakllari. 2021. Interference-Aware Sector Design in IEEE 802.11ad Networks. In ICCCN21 - 30th International Conference on Computer Communications and Networks."](available_soon)
+["Guillaume Gaillard and Gentian Jakllari. 2021. Interference-Aware Sector Design in IEEE 802.11ad Networks. In ICCCN21 - 30th International Conference on Computer Communications and Networks."](https://hal.inria.fr/hal-03276187)
 
 
 ## Purpose
