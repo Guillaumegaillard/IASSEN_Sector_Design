@@ -16,7 +16,6 @@ CBparam = importlib.import_module("talon-sector-patterns.CB_params_patterns")
 
 import os
 import sys
-import importlib  
 ### locate TalonPy and avoid issues with relative imports there and dashes in dir name 
 sys.path.insert(0, './Adaptive-Codebook-Optimization/TalonPyCode/')
 TalonPy = importlib.import_module("Adaptive-Codebook-Optimization.TalonPyCode.TalonPy")
